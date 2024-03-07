@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "firstname",
+    "fullname",
+    "lastname"
+  ],
+  "auto-close-tag.activationOnLanguage": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "xml",
+    "php"
+  ]
+}
